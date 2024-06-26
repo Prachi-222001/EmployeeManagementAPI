@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Emp_Management_SF.props" />
+</Project>

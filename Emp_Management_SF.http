@@ -1,0 +1,6 @@
+@Emp_Management_SF_HostAddress = http://localhost:5143
+
+GET {{Emp_Management_SF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
